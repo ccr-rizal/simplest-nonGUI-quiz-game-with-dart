@@ -1,0 +1,23 @@
+List questions = [
+  "What is your name?",
+  "Where do you live in?",
+  "What's your father name?",
+  "What do you do for your living",
+  "What's your ultimate goal to be?",
+];
+
+List answers = [
+  "Shishir Sharma Rijal",
+  "Shantingar-03,Dang",
+  "Tikaram Sharma",
+  "Nothing right now",
+  "A trillioner",
+];
+
+Map questionAnswers = {
+  "What is your name?": "Shishir Sharma Rijal",
+  "Where do you live in?": "Shantingar-03,Dang",
+  "What do you do for your living": "Nothing right now",
+  "What's your father name?": "Tikaram Sharma",
+  "What's your ultimate goal to be?": "A trillioner",
+};
