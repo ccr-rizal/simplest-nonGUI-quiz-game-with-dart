@@ -7,17 +7,17 @@ List questions = [
 ];
 
 List answers = [
-  "Shishir Sharma Rijal",
-  "Shantingar-03,Dang",
-  "Tikaram Sharma",
+  "Shishir Rijal",
+  "my location",
+  "my dad",
   "Nothing right now",
-  "A trillioner",
+  "earn money",
 ];
 
 Map questionAnswers = {
-  "What is your name?": "Shishir Sharma Rijal",
-  "Where do you live in?": "Shantingar-03,Dang",
+  "What is your name?": "Shishir Rijal",
+  "Where do you live in?": "my location",
   "What do you do for your living": "Nothing right now",
-  "What's your father name?": "Tikaram Sharma",
-  "What's your ultimate goal to be?": "A trillioner",
+  "What's your father name?": "my dad",
+  "What's your ultimate goal to be?": "earn money",
 };
